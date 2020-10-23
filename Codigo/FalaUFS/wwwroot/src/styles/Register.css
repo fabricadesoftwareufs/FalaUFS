@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+    .Register {
+      padding: 0px;
+    }
+  
+    .Register form {
+      margin: 10 auto;
+      max-width: 500px;
+    }
+  }
